@@ -16,4 +16,3 @@ https://www.youtube.com/watch?v=-mcrmLmNOXA&t=991s
 bilibili：  
 https://www.bilibili.com/video/av30543613?from=search&seid=74343163897647645  
 老版本中pos和neg中的语料不全，请解压“语料.zip”覆盖
-ht
