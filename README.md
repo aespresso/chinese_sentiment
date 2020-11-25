@@ -1,4 +1,4 @@
-# chinese_sentiment
+# this is changed from github.com/hzy9981/chinese_sentiment
 **用Tensorflow进行中文自然语言处理分类实践**   
 1. 词向量下载地址:   
 链接: https://pan.baidu.com/s/1GerioMpwj1zmju9NkkrsFg 
